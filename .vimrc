@@ -1,0 +1,11 @@
+set visualbell
+set background=dark
+set tabstop=4
+set mouse=a
+set number
+set showcmd
+set spell
+color ron 
+set cursorline
+set autoindent
+syntax on
